@@ -1,6 +1,0 @@
-C:\Users\Dobromira\Documents\Visual Studio 2013\Telerik Academy\JavaScript\ExamPreparation\ExamPreparation\bin\ExamPreparation.dll.config
-C:\Users\Dobromira\Documents\Visual Studio 2013\Telerik Academy\JavaScript\ExamPreparation\ExamPreparation\bin\ExamPreparation.dll
-C:\Users\Dobromira\Documents\Visual Studio 2013\Telerik Academy\JavaScript\ExamPreparation\ExamPreparation\bin\ExamPreparation.pdb
-C:\Users\Dobromira\Documents\Visual Studio 2013\Telerik Academy\JavaScript\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.csprojResolveAssemblyReference.cache
-C:\Users\Dobromira\Documents\Visual Studio 2013\Telerik Academy\JavaScript\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.dll
-C:\Users\Dobromira\Documents\Visual Studio 2013\Telerik Academy\JavaScript\ExamPreparation\ExamPreparation\obj\Debug\ExamPreparation.pdb
